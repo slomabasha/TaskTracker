@@ -2,6 +2,7 @@
 
 A simple console-based task manager built with C#.  
 You can add, view, complete, and remove tasks easily.
+This is my first app in C#.👀
 
 ## Features
 - Add tasks via console input
